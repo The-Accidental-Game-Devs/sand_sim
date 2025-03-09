@@ -1,6 +1,8 @@
 # Simple Sand Simulation
 Simple sand simulation make in python using pygame-ce.
 
+![Showcase GIF](demo.gif)
+
 ## Requriments
 - Python 3.x (made with 3.13.2, should work with other versions)
 - pygame-ce (made with 2.5.3, should work with other versions)
